@@ -32,7 +32,12 @@
 
       <button onclick="appendValue('0')">0</button>
       <button onclick="appendValue('.')">.</button>
+
+      <button onclick="appendValue('X')">X</button>
+      <button onclick="appendValue('Y')">Y</button>
+      <button onclick="appendValue('Z')">Z</button>
     </div>
+
   </div>
   <script src="style.js"></script>
 </body>
